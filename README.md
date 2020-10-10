@@ -64,3 +64,13 @@ gcc --version
 ![圖十二](images/12.png)
 
 7. 重新開啟VSCode
+
+8. 將[Terminal]當前的目錄位置移至[c_cpp]/[template]
+
+```
+cd c_cpp\template
+```
+
+![圖十三](images/13.png)
+
+點選[這裡](https://github.com/Albert-Hu/coding-env-setup/tree/main/c_cpp/template)到另一個教學。
